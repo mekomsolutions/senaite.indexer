@@ -14,7 +14,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='senaite.indexer',
-    version='1.0a1',
+    version='1.0.0',
     description="An add-on to index senaite catalogs",
     long_description=long_description,
     # Get more from https://pypi.org/classifiers/
