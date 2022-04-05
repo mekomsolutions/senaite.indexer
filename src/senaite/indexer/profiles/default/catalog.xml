@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<object name="portal_catalog">
+  <index name="getClientID" meta_type="FieldIndex">
+    <indexed_attr value="getClientID"/>
+  </index>
+</object>
