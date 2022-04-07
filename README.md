@@ -1,2 +1,2 @@
-# senaite.indexes
-SENAITE plugin to create indexes
+# senaite.indexer
+SENAITE plugin to create indexer
