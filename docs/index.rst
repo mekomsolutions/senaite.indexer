@@ -1,0 +1,5 @@
+===============
+senaite.indexer
+===============
+
+User documentation
